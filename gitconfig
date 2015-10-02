@@ -1,0 +1,9 @@
+[url "https://"]
+	insteadOf = git://
+[user]
+	email = krgoode@gmail.com
+	name = Kevin Goode
+[push]
+	default = simple
+[core]
+	editor = vim

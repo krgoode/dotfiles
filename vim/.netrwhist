@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/kgoode/Logstash_kibana_auto_install/default'
+let g:netrw_dirhist_2='/var/www'
+let g:netrw_dirhist_3='/var/www/graphs'
+let g:netrw_dirhist_4='/home/kgoode/node/ex4/app'
+let g:netrw_dirhist_5='/home/kgoode/node/ex4/models'
+let g:netrw_dirhist_6='/home/kgoode/node/ex4/router'
+let g:netrw_dirhist_7='/home/kgoode/node/ex4/router/routes'
+let g:netrw_dirhist_8='/home/kgoode/node/ex4/router'
+let g:netrw_dirhist_9='/home/kgoode/.tonbeller'
